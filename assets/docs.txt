@@ -1,0 +1,111 @@
+
+                    <!--------- maps-->
+
+                    <section data-bgcolor-1="#111111" class="text-light contact">
+                        <div class="container-fluid">
+                            <div class="row align-items-center">
+                                <div class="col-lg-5 offset-md-7">
+                                    
+                                    <h2>
+                                        Contact Us
+                                    </h2>
+                                    <p class="org-name">Jades Cheer Gem</p>
+                                    <p class="">7540 103rd Street, Jacksonville, Florida 32210, United States</p>
+                                    <a class="btn  btn-home-contact text-uppercase" href="contact.html" role="button">Contact us</a>
+                                 
+                            </div>
+                        </div>
+                        <div class="image-container col-md-6" data-bgimage=""><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3446.6753325795707!2d-81.77324318540137!3d30.246333715962912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e5c7481e9d608f%3A0xd429c17e00ccc1b4!2sJade&#39;s%20Cheer%20Gem!5e0!3m2!1sen!2sin!4v1637242673693!5m2!1sen!2sin" width="1065" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
+                    </section>
+            
+            
+                    <!------ /maps ------>
+
+
+
+
+
+<!-- Main Slider -->
+	<div id="slider" class="slider-section">
+		<div class="container-fluid">
+			<div class="row">
+				<div id="main-slider" class="carousel slide" data-ride="carousel" data-interval="false">
+					<!-- Indicators -->
+					<ol class="carousel-indicators carousel-indicators-numbers">
+						<li data-target="#main-slider" data-slide-to="0" class="active">01</li>
+						<li data-target="#main-slider" data-slide-to="1">02</li>
+						<li data-target="#main-slider" data-slide-to="2">03</li>
+					</ol>
+
+					<!-- Wrapper for slides -->
+					<div class="carousel-inner" role="listbox">
+
+						<!-- First slide -->
+						<div class="item active">
+							<div class="slider-content text-center">
+								<div class="slider-img">
+									<img src="images/slider/01.jpg" alt="slider image">
+									<div class="img-text-box">
+										<h2><span>Crowing</span></h2>
+									</div>
+								</div>
+								<div class="slider-text">
+									<h1 class="text-capitalize">Bonsai</h1>
+									<h3 class="text-lowercase">professional service</h3>
+									<p class="mm-width">Lorem Ipsum is simply dummy text the printing and typesetting any industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								</div><!-- /.slider-text -->
+							</div><!-- /.slider-content -->
+						</div>
+						<!-- /.item -->
+
+						<!-- Second slide -->
+						<div class="item">
+							<div class="slider-content text-center">
+								<div class="slider-img">
+									<img src="images/slider/01.jpg" alt="slider image">
+									<div class="img-text-box">
+										<h2><span>Crowing</span></h2>
+									</div>
+								</div>
+								<div class="slider-text">
+									<h1 class="text-capitalize">Bonsai</h1>
+									<h3 class="text-lowercase">professional service</h3>
+									<p class="mm-width">Lorem Ipsum is simply dummy text the printing and typesetting any industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								</div><!-- /.slider-text -->
+							</div><!-- /.slider-content -->
+						</div>
+						<!-- /.item -->
+
+						<!-- Third slide -->
+						<div class="item">
+							<div class="slider-content text-center">
+								<div class="slider-img">
+									<img src="images/slider/01.jpg" alt="slider image">
+									<div class="img-text-box">
+										<h2><span>Crowing</span></h2>
+									</div>
+								</div>
+								<div class="slider-text">
+									<h1 class="text-capitalize">Bonsai</h1>
+									<h3 class="text-lowercase">professional service</h3>
+									<p class="mm-width">Lorem Ipsum is simply dummy text the printing and typesetting any industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+								</div><!-- /.slider-text -->
+							</div><!-- /.slider-content -->
+						</div>
+						<!-- /.item -->
+					</div>
+
+					<!-- Controls -->
+					<a class="arrow left" href="#main-slider" role="button" data-slide="prev">
+						<span></span>
+					</a>
+					<a class="arrow right" href="#main-slider" role="button" data-slide="next">
+						<span></span>
+					</a>
+
+				</div><!-- /#main-slider -->
+			</div>
+		</div><!-- /.container-fluid -->
+	</div><!-- /.slider-section -->
+	<!-- End of Main Slider -->
+
